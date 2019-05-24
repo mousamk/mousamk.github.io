@@ -28,6 +28,14 @@ a {
   -o-transition: all 0.4s ease-in-out;
 }
 
+.main-wrapper a {
+  color: #4488DD;
+}
+
+.main-wrapper a:hover {
+  color: #2266AA;
+}
+
 a:hover {
   text-decoration: underline;
   color: #10171a;
