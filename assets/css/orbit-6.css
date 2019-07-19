@@ -308,7 +308,7 @@ p {
 }
 
 .skillset .item {
-  margin-bottom: 15px;
+  margin-bottom: 25px;
   overflow: hidden;
 }
 
@@ -369,10 +369,10 @@ p {
 }
 
 @media (min-width: 992px) {
-  .skillset .level-title {
+  /*.skillset .level-title {
     display: inline-block;
     float: left;
     width: 30%;
     margin-bottom: 0;
-  }
+  }*/
 }
